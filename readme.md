@@ -1,0 +1,1 @@
+In this project, I will be making a calculator app using modular JavaScript design pattern.
